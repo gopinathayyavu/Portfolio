@@ -1,26 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Gopinath Portfolio</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gopinath's Portfolio</title>
     <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="assets/web/assets/mobirise-icons2/mobirise2.css">
-  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
-  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
-  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-reboot.min.css">
-  <link rel="stylesheet" href="assets/dropdown/css/style.css">
-  <link rel="stylesheet" href="assets/socicon/css/styles.css">
-  <link rel="stylesheet" href="assets/theme/css/style.css">
-  <link rel="stylesheet" href="assets/recaptcha.css">
-  <link rel="preload" href="https://fonts.googleapis.com/css?family=Cormorant+Infant:300,300i,400,400i,500,500i,600,600i,700,700i&amp;display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
-  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Cormorant+Infant:300,300i,400,400i,500,500i,600,600i,700,700i&amp;display=swap"></noscript>
-  <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css"><link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
+    <script defer src="script.js"></script>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Kaushan+Script|Poppins&display=swap">
 </head>
+
 <body>
     <section id="banner">
-        <!-- <img src="images/logo.png" class="logo"> -->
         <div class="banner-text">
             <h1>Gopinath A</h1>
             <p>Full Stack Developer</p>
@@ -45,28 +36,7 @@
     <div id="menubtn">
         <img src="assets/menuopen.png" id="menu" alt="">
     </div>
-    <section data-bs-version="5.1" class="artistm5 content5 cid-tupn32rtzD" id="content05-2">
-    
-        <div class="container">
-            <div class="row jc-sb">
-                <div class="col-12 col-md-12 col-lg-5">
-                    <img class="w-100" style="height: 480px;" src="assets/images/features1.jpg" alt="">
-                </div>
-                <div class="col-12 col-md-12 col-lg-6">
-                    <h5 class="mbr-section-title mbr-fonts-style mb-2 display-5">
-                        <strong>ABOUT ME</strong>
-                    </h5>
-                    <p class="mbr-section-text mbr-fonts-style pb-4 mb-4 display-7">Highly skilled Full Stack Developer with seven months of experience in designing and developing dynamic web
-                        applications. Proficient in Python, Django, Flask, Angular, SQL, and various front-end and back-end
-                        technologies. Known for creating seamless, user-friendly interfaces and efficient backend systems.
-                        Demonstrated ability to quickly master new technologies and deliver high-quality projects within deadlines.
-                        Passionate about leveraging skills to contribute to innovative projects and drive organizational success.
-                    </p>
-                </div>
-            </div>
-        </div>
-    </section>
-    <div id="about" class="aboutme">
+    <section id="about" class="container">
         <h2>About Me</h2>
         <p>Highly skilled Full Stack Developer with seven months of experience in designing and developing dynamic web
             applications. Proficient in Python, Django, Flask, Angular, SQL, and various front-end and back-end
@@ -74,7 +44,7 @@
             Demonstrated ability to quickly master new technologies and deliver high-quality projects within deadlines.
             Passionate about leveraging skills to contribute to innovative projects and drive organizational success.
         </p>
-    </div>
+    </section>
     <section id="skills" class="container">
         <h2>Skills</h2>
         <ul>
@@ -152,6 +122,6 @@
             <p>&copy; 2024 Gopinath A</p>
         </div>
     </footer>
-    <script src="script.js"></script>
 </body>
+
 </html>
