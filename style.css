@@ -109,7 +109,6 @@ nav ul li a {
 #menubtn .menuimg {
     width: 20px;
     margin-top: 10px;
-    margin-left: 10px
 }
 
 .myworktxt {
@@ -136,23 +135,34 @@ nav ul li a {
     border-top-left-radius: 50px;
 }
 
-.label-txt-skills{
+.label-txt-skills {
     color: white;
     margin-bottom: 28px
 }
 
-.skillsimg{
+.skillsimg {
     height: 50px;
     width: 50px;
     margin-bottom: 5px;
 }
 
-.skillsimgnw{
+.skillsimgnw {
     height: 50px;
     margin-bottom: 5px;
 }
 
-.skillsimgts{
-    width: 80%;
-    margin-bottom: 5px;
+.cmp-name {
+    font-size: 1.6rem;
+    line-height: 1.3;
+}
+
+.wrk-summary {
+    font-family: 'Cormorant Infant', serif;
+    font-size: 1.2rem;
+    line-height: 1.3;
+}
+
+.wrk-list {
+    font-style: normal;
+    line-height: 1.2;
 }
