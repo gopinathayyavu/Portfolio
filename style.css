@@ -140,3 +140,19 @@ nav ul li a {
     color: white;
     margin-bottom: 28px
 }
+
+.skillsimg{
+    height: 50px;
+    width: 50px;
+    margin-bottom: 5px;
+}
+
+.skillsimgnw{
+    height: 50px;
+    margin-bottom: 5px;
+}
+
+.skillsimgts{
+    width: 80%;
+    margin-bottom: 5px;
+}
