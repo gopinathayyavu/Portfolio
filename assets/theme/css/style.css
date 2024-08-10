@@ -561,33 +561,6 @@ nav .mbr-section-btn {
   }
 }
 
-.nav-link .mbr-iconfont {
-  margin-right: 0.5rem;
-}
-
-.navbar {
-  display: -webkit-flex;
-  -webkit-flex-wrap: wrap;
-  -webkit-align-items: center;
-  -webkit-justify-content: space-between;
-}
-
-.navbar-collapse {
-  -webkit-flex-basis: 100%;
-  -webkit-flex-grow: 1;
-  -webkit-align-items: center;
-}
-
-.nav-dropdown .link {
-  padding: 0.667em 1.667em !important;
-  margin: 0 !important;
-}
-
-.nav {
-  display: -webkit-flex;
-  -webkit-flex-wrap: wrap;
-}
-
 .row {
   display: -webkit-flex;
   -webkit-flex-wrap: wrap;
